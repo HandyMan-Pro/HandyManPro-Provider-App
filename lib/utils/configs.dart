@@ -7,11 +7,11 @@ const DEFAULT_LANGUAGE = 'en';
 const primaryColor = Color(0xFF5F60B9);
 
 /// Live Url
-const DOMAIN_URL = 'YOUR_DOMAIN_URL'; // Don't add slash at the end of the url
+const DOMAIN_URL = 'https://handyman-backend-mxxa.onrender.com'; // Don't add slash at the end of the url
 
 const BASE_URL = "$DOMAIN_URL/api/";
 
-const GOOGLE_PLACE_SEARCH_API = 'YOUR_GOOGLE_PLACE_SEARCH_API_KEY';
+const GOOGLE_PLACE_SEARCH_API = 'AIzaSyA6MgQ-KAY3ZFlRmeAT7kTLL0dSa_FTfsI';
 
 /// You can specify in Admin Panel, These will be used if you don't specify in Admin Panel
 const IOS_LINK_FOR_PARTNER =
