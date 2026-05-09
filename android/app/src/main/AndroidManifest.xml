@@ -93,7 +93,7 @@
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
          <meta-data
                 android:name="com.google.android.geo.API_KEY"
-                android:value="YOUR_GOOGLE_MAPS_API_KEY" />
+                android:value="AIzaSyA6MgQ-KAY3ZFlRmeAT7kTLL0dSa_FTfsI" />
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
