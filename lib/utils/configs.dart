@@ -7,7 +7,7 @@ const DEFAULT_LANGUAGE = 'en';
 const primaryColor = Color(0xFF5F60B9);
 
 /// Live Url
-const DOMAIN_URL = 'https://handyman-backend-mxxa.onrender.com'; // Don't add slash at the end of the url
+const DOMAIN_URL = 'https://handyman-backend-sa31.onrender.com'; // Don't add slash at the end of the url
 
 const BASE_URL = "$DOMAIN_URL/api/";
 
